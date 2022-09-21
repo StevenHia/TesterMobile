@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TestSuitMedia</string>
+
+    <!--String Title Toolbar-->
+    <string name="title_toolbar_second">Second Screen</string>
+    <string name="title_toolbar_third">Third Screen</string>
+
+    <string name="text_name">Name</string>
+    <string name="text_palindrome">Palindrome</string>
+    <string name="text_welcome">Welcome</string>
+    <string name="text_selected_user">Selected User Name</string>
+
+    <!-- String ShowDialog-->
+    <string name="title_show_dialog">Palindrome</string>
+    <string name="message_palindrome_true">isPalindrome</string>
+    <string name="message_palindrome_false">Not Palindrome</string>
+
+    <!-- String Text Button-->
+    <string name="button_check">Check</string>
+    <string name="button_next">Next</string>
+    <string name="button_choose">Choose a User</string>
+
+    <!-- String Get Data-->
+    <string name="fullName">%s %s</string>
+</resources>
